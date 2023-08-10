@@ -9,7 +9,10 @@ Matplotlib <br>
 Seaborn <br>
 Scikit-learn <br>
 
-## Results
+## Data 
+![download (1)](https://github.com/aviralgupta393/Movie-Genre-Classification/assets/120169597/f5753b2b-9e7b-420e-bfdb-07d5c51b9e05)
+
+## Result
 ![download](https://github.com/aviralgupta393/Movie-Genre-Classification/assets/120169597/4074274e-8610-430d-bec9-03473590a95c)
 
 ### Future Work 
